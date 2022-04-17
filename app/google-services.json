@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "830275724373",
+    "firebase_url": "https://tione-98666-default-rtdb.firebaseio.com",
+    "project_id": "tione-98666",
+    "storage_bucket": "tione-98666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830275724373:android:3351691cf4f10c03b4a0dc",
+        "android_client_info": {
+          "package_name": "com.example.tiona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830275724373-fsagb8d64odm1cnjt9f6s43gtf23f291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOoAPeaunP1grUp_XR3QUte9jeTyJigY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830275724373-fsagb8d64odm1cnjt9f6s43gtf23f291.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830275724373:android:c02b6acf29199190b4a0dc",
+        "android_client_info": {
+          "package_name": "com.example.tione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830275724373-fsagb8d64odm1cnjt9f6s43gtf23f291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOoAPeaunP1grUp_XR3QUte9jeTyJigY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830275724373-fsagb8d64odm1cnjt9f6s43gtf23f291.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
